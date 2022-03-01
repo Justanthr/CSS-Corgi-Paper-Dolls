@@ -1,0 +1,33 @@
+/* I am particular about placement, and how it looks to me... I'm not looking for bonus points with the  spesificity of the positions */
+/* Giving Fido the funny glasses */
+.funny-glasses {
+  position: relative;
+  bottom: 6.85em;
+  left: 13.25em;
+}
+/* Giving Daisy the bandana */
+.bandana {
+  position: absolute;
+  left: 6.55em;
+  top: 11.25em;
+}
+/* Giving daisy a hair bow */
+.bowtie {
+  position: relative;
+  right: 4.25em;
+}
+/* Putting Jack's paw print on the award */
+.pawprint {
+  position: fixed;
+  top: 2.8em;
+  left: 4.05em;
+}
+/* Letting Luna try on outfits */
+.luna {
+  position: sticky;
+  left: 1px;
+}
+/* Helping Benji */
+.top-hat {
+  z-index: 1;
+}
